@@ -1,0 +1,303 @@
+Your Company delivered a strong performance during
+2015-16 and crossed the trillion rupee revenue
+milestone, with reported revenues of `1,08,646 crore at
+an annual growth of 14.8 per cent. Operating margins
+were an industry benchmark at 26.4 per cent for the
+year, well within our target range of 26-28 per cent.
+TCS remained the most profitable company in the Indian
+IT services industry posting net margins of 22.4 per cent
+and annual net profit of `24,292 crore. This performance
+has enabled your Company to retain its position as the
+most valuable company in India with a market
+capitalisation of `4,95,770 crore (US$ 74.84 billion) as
+on March 31, 2016.
+We have continued our practice to consistently reward
+our shareholders. In FY16, our total dividend pay-out
+was `43.50 per share including `27 per share proposed
+as final dividend. The earnings per share for the company
+increased to 123.28.
+Your Company’s customer-centric business model and
+its philosophy in building new capabilities has led to
+increased participation in our customers’ IT spend. The
+core business portfolio has performed very well with all
+key segments posting steady growth led by Banking &
+Financial Services, Retail, Manufacturing and Life
+Sciences - all these industries grew above the company
+average growth rate on a constant currency basis.
+In terms of markets, growth was well distributed with
+North America growing 10.8 per cent, Europe by 12.9
+per cent and United Kingdom by 8.3 per cent in constant
+currency terms. India crossed $ 1 billion milestone in
+annual revenues while overall revenues from new
+Growth Markets exceeded $ 3.3 billion on in FY16.
+From a services perspective, growth was led by
+Infrastructure services, Products & Platforms
+and Assurance services. Digital services grew by
+52.2 per cent annually with revenues crossing the
+$ 2 billion mark.
+There were some headwinds in the business
+environment for your Company. Adverse cross currency
+movements severely impacted the reported US$
+revenue of 16.55 billion by 4.8 per cent. This resulted in
+lower US$ revenue growth of 7.1 per cent year-on-year
+compared to 11.9 per cent growth in constant currency
+terms. Diligenta, our life and pensions subsidiary in the
+UK continued to experience some slowdown while
+the broader insurance vertical also remained weak.
+Our investment in Japan is yet to pick up momentum.
+Your Company ’s talent development initiatives
+continued to support business growth. At the end of
+FY16, TCS had a diverse base of 3,53, 843 employees in
+55 countries from 129 nationalities including
+33.8 per cent women professionals. We continued to
+enjoy the highest retention in the industry at 14.7 percent LTM (last 12 months) for IT professionals. Our
+employee engagement programs like Fit4Life,
+Purpose4Life and SafetyFirst are helping create
+awareness about health and fitness as well as enabling
+our employees to engage with the community to make a
+positive impact.
+It is the commitment and dedication of these TCSers
+across the world that has helped your Company perform
+on a sustained basis. On behalf of all the shareholders,
+I would like to thank every TCSer for their drive and
+passion that has helped this organisation maintain its
+growth and momentum.
+Today, customers see your Company as a partner of
+choice for their transformation initiatives. This is evident
+from the strength of the customer revenue metrics
+which have shown exceptional improvement in FY16.
+We added eight new customers in the $100+ million
+band taking the total to 37 customers, while
+37 new customers were added in the $10+ million
+band totalling 298 customers. Our customer
+satisfaction scores also reached an all-time high,
+reflecting this trend.
+Digital Technology Trends
+Demand for our services is being driven by the
+acceleration in the adoption of Digital. Digital is creating
+new opportunities for enterprises to drive Efficiency and
+Simplification across the business. Most brick and
+mortar businesses were built in a pre-digital era.
+Therefore, to thrive in the Digital economy, enterprises
+are on a quest to deliver unique customer experiences,
+gain real-time access to insights, improve workforce
+productivity and create a hyper-connected eco-system.
+The impact of “Digital Technologies” has further
+intensified in the past twelve months. We are living in a
+digital age, characterised by an accelerating trend of
+hyper-connectivity between humans and also between
+humans and smart devices. As you go through this
+annual report, we have attempted to showcase some of
+the key technology and business trends that are shaping
+the future of TCS and that of our customers.
+The digital world we inhabit today has very different
+characteristics from what we have seen in the past.
+It is forcing all of us - individuals, enterprises and
+governments - to learn new ways to engage with
+our stakeholders. In addition, widespread adoption of
+Digital technologies by business is leading to the
+evolution of the Smart Enterprise – companies that can
+respond in real time and provide unique personalised
+experiences for its customers.
+Smart Enterprises are quick to recognise that in a Digital
+world, experience supercedes features. This was not
+the case even five years ago, when we would buy a
+product based on its features alone without even
+opening the box! But now it’s the experience of
+the product or service that determines our buying
+behaviour. The reason we focus on experience today is
+because new features are only one software release
+away. Whatever the product, be it a smart watch or
+even a car, every software release brings new and
+enriched features.
+For a Smart Enterprise to respond in real-time or ahead
+of time requires dematerialisation of an enterprise
+where physical assets now have a Digital interface.
+Once dematerialised, all enterprise’s assets -
+technology, infrastructure, operations, logistics,
+customer data and content - become software driven
+and therefore now available for seamless correlation
+and deriving proactive insights. For example, as goods
+from cars to cans become more ‘intelligent ’,
+a dematerialised smart enterprise can execute,
+respond, plan and predict in real-time using insights
+gleaned from big data.
+To succeed, Smart Enterprises have to be Agile by
+default. Agility is the ability of an enterprise to move with
+speed and respond to changes in its environment swiftly
+(for example, when launching new products).
+Your Company is proactively increasing its use of
+Agile/ DevOps (Development + Operations)
+methodologies to radically decrease the time to market
+of new solutions, while bringing about greater
+collaboration between IT and business.
+Further, to make sense of voluminous and unstructured
+data that is increasing exponentially, Smart Enterprises
+are using Artificial Intelligence technologies for
+developing machine learning and deep learning
+capabilities. Software robots are playing a bigger role in
+our lives – from algorithmic trading and advisory
+services in financial markets to mapbots which give us
+daily driving directions. Additionally, cloud-based
+models are enabling ‘anywhere-anytime-any device’
+access to data which is creating a significant shift in
+business models and enterprise IT architectures.
+TCS Leadership in the Digital Economy
+Your Company has been at the forefront of this
+Digital revolution by making strategic investments
+across multiple dimensions ahead of time to ensure that
+we are well equipped to capture this big opportunity.
+Today, we are Digital partners for 52% of our customers across multiple segments such as Mobility
+and Pervasive Computing, Cloud, Big Data,
+Artificial Intelligence & Robotics – all of which have
+grown at a compounded quarterly growth rate of 8-12
+per cent during FY16. We have built the right technology
+talent combined with deep domain expertise and an
+understanding of the customer’s business.
+The Digital economy and disruptions in technologies are
+changing the skills requirements in our industry.
+Recognising the need to build the right Digital talent,
+your Company has made significant investments to
+upgrade skills of its employees as well as increase its
+focus on hiring specialised talent.
+TCS has created a world-class Digital Learning Platform -
+an integrated ecosystem that combines virtual,
+physical and experiential learning with high quality
+content that is available anywhere, anyplace, anytime
+and on any device. I am delighted to share that we have
+trained over 1,20,000 TCSers in multiple digital
+technologies during FY16.
+Digital transformations entail new ways of collaboration
+among teams that consist of players with multiple niche
+skills – from design to psychology – in order to deliver a
+‘customer-first’ experience. Towards this, we have
+invested in a new Design Studio in Silicon Valley,
+staffed with top notch professionals with diverse skill
+sets. It is a collaborative space where customers can
+co-create with TCS in a typical start-up ‘garage’
+environment. A new executive briefing centre was also
+launched for next-generation engagement with
+customers using immersive technologies in Mumbai.
+Your Company’s significant investments in Digital has
+resulted in a growing portfolio of Digital products and
+platforms. TCS’ strategic bets in TCS Bancs TM for
+TM
+Financial Services and iON for the Education sector
+have performed well. We also continue to invest in
+digital platform solutions for key industries, horizontal
+functions (Account Payable, HR) as well as technology
+assets. The new cloud platforms together delivered
+$172 million in revenues in FY16, a growth of 37 per cent
+year on year.
+In June last year, we launched ignio TM , our flagship
+automation product for enterprise IT that helps
+customers analyse, plan and predict their IT needs.
+With its cognitive capabilities, ignio TM is technologically
+an advanced enterprise automation product in the
+market. Within nine months of its launch it had signed up
+16 customers. TCS has also filed 24 patents for ignio TM
+till date.
+Today’s digital enterprises also face an increased
+exposure to cyber security threats from phishing
+attacks, Advanced Persistent Threat (APT) and
+hyper-connected universe, data confidentiality and data
+sensitivity. TCS has taken proactive steps to combat
+these threats and ensure uninterrupted service delivery
+to customers. We also continue to reinforce our
+stringent security policies and procedures.
+Your Company has been pursuing a two-pronged
+Research and Innovation (R&I) agenda. Our in-house R&I
+programs have been refined to focus on foundational
+research in areas like deep learning, nano-materials,
+cognitive computing and genomics as well as engage in
+industry-centric innovations like the use of blockchain
+technology in banking, connected cars or smart homes.
+Your Company remains focused on Intellectual Property
+creation. At the end of FY16, the company has applied
+for 2,842 patents cumulatively, including 565 applied
+during the past 12 months, of which the company has
+been granted 341 patents.
+However, as an organisation we are humble enough to
+recognise that it is impossible to innovate in isolation.
+Therefore, to complement the in-house R&I efforts,
+your Company has built a global start-up partnership
+ecosystem called COIN TM (Co-Innovation Network)
+which actively engages with technology start-ups,
+academia and venture capitalists to identify innovative
+ideas on an ongoing basis from over 1,400 companies on
+our radar.
+Additionally we continue to build our strategic academic
+partnerships. In FY16 your Company made a
+US$35 million gift to Pittsburgh-based Carnegie Mellon
+University, which was the all-time largest corporate gift
+to the university and the largest gift from outside the
+U.S. This donation will fund a new 40,000 square feet
+facility, the TCS Building, which will support education,
+cutting-edge research and house state-of-the-art
+facilities. In India, your Company also announced plans
+to set up the FC Kohli Center on Intelligent Systems at
+IIIT Hyderabad which will coordinate research in related
+domains across different centres of the university.
+In March, in collaboration with Nashik city and
+MIT Media Labs, your Company began a unique social
+innovation program. The TCS Digital Impact Square is an
+open Social Innovation Platform to address real life
+challenges by engaging with students and entrepreneurs from across India and providing them
+with internships to build solutions to challenging social
+issues using Digital technologies and human centric
+design principles.
+Your Company made a significant impact in the
+community with new programs and initiatives.
+TCS stepped forward to extend its support towards the
+‘Swachh Bharat, Swachh Vidyalaya’ initiative,
+announced by India’s Prime Minister Shri Narendra Modi
+on August 15, 2014. As the largest corporate
+contributor to the program, your Company has built
+dedicated toilets for girl students in 1,472 schools in
+Andhra Pradesh, Telangana, Bihar and Tamil Nadu,
+changing lives of over 80,000 students in the process by
+giving them the opportunity to live a healthy childhood
+and gain an education.
+Another landmark initiative was the social
+transformation of All India Institute of Medical Sciences
+– India’s pre-eminent public healthcare institution
+- where using process re-engineering and technology,
+a TCS team worked tirelessly for six months to
+re-engineer and deploy new processes to reduce
+waiting times by 66 per cent to less than two hours
+benefitting over three million patients annually.
+The TCS STEM (Science, Technology, Engineering,
+Math) program expanded its reach, inspiring young
+minds. It is designed to empower students to master
+digital technologies through innovative technology
+learning platforms. TCS contributed to US2020 program
+to launch a new online platform which aims to connect
+more STEM professionals to grassroots volunteering
+opportunities, acknowledged by the US White House in
+a press statement.
+Your Company will continue to look for ways to make
+significant social interventions using digital platforms
+and technologies in the areas of health and education
+going forward.
+Last but not least, I am delighted to share that your
+Company has been recognised and rewarded by peers
+and stakeholders. TCS was rated as the world’s most
+powerful brand in IT Services and also retained its
+position as the fastest growing brand within its industry
+over the last 6 years. Among other major accolades,
+TCS ranked number 1 in Europe for Customer
+Satisfaction by Whitelane Research for third year in a
+row. Your Company also appeared in the global Forbes
+100 most innovative global companies list for the
+eighth consecutive year and topped the Business Today
+500 list for the third year in a row.
+Looking ahead, as global businesses aspire to become
+Smart Enterprises by accelerating adoption of digital,
+your Company is very well positioned in this regard.
+Our rich customer base, domain expertise and deep
+understanding of the customer landscape, technology
+investments and IP combined with our global scale puts
+us in pole position to make a significant impact in the
+Digital world.
+I would like to thank shareholders for all their support and
+encouragement during the year.
